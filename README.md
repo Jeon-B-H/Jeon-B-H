@@ -39,12 +39,12 @@
 <br><br><br><br>
 
 ### Statistics
-<div>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=typhoon620" width="42%" height="100%"/>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=typhoon620620" width="42%" height="100%"/>
+<div style="display: flex; justify-content: space-between;">
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=typhoon620" width="42%" height="200" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=typhoon620620" width="42%" height="200" />
 </div>
 <br>
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Jeon-B-H&show_icons=true&theme=holi" width = "42%" height=200 />
-  <img height=180 weight = "42%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeon-B-H&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+<div style="display: flex; justify-content: space-between;">
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Jeon-B-H&show_icons=true&theme=holi" width="42%" height="200" />
+  <img height="200" width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeon-B-H&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
